@@ -9,8 +9,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "flex-plugin-scripts": "4.1.0",
-    "moment": "2.24.0",
+    "@twilio/flex-plugin-scripts": "5.1.0",
+    "moment": "^2.29.3",
     "moment-timezone": "0.5.28",
     "react": "16.5.2",
     "react-dom": "16.5.2",
